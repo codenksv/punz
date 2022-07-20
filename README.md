@@ -1,2 +1,2 @@
 # punz
-connect local 
+connect local vendors and shops with main stream 
